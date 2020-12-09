@@ -1,0 +1,997 @@
+name,Line_Item,figures,Period_Type,Period,Year,Report,State,url_1,index1,figure_type
+HOLLYWOOD CASINO,HOLLYWOOD CASINO,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Barstool,0,Online Sports Wagering
+HOLLYWOOD CASINO,Total Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Barstool,1,not_figure
+HOLLYWOOD CASINO,Handle*,1414587,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Barstool,2,Total Sports Wagering
+HOLLYWOOD CASINO,Revenue,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Barstool,3,Total Sports Wagering
+HOLLYWOOD CASINO,Promotional Credits,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Barstool,4,Total Sports Wagering
+HOLLYWOOD CASINO,Gross Revenue (Taxable),508997,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Barstool,5,Total Sports Wagering
+HOLLYWOOD CASINO,State Tax Due (34%),173059,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Barstool,6,Total Sports Wagering
+HOLLYWOOD CASINO,Local Share Assessment (2%),10180,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Barstool,7,Total Sports Wagering
+HOLLYWOOD CASINO,Retail Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Barstool,8,not_figure
+HOLLYWOOD CASINO,Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Barstool,9,Retail Sports Wagering
+HOLLYWOOD CASINO,Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Barstool,10,Retail Sports Wagering
+HOLLYWOOD CASINO,State Tax Due (34%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Barstool,11,Retail Sports Wagering
+HOLLYWOOD CASINO,Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Barstool,12,Retail Sports Wagering
+HOLLYWOOD CASINO,Online Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Barstool,13,not_figure
+HOLLYWOOD CASINO,Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Barstool,14,Online Sports Wagering
+HOLLYWOOD CASINO,Revenue,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Barstool,15,Online Sports Wagering
+HOLLYWOOD CASINO,Promotional Credits,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Barstool,16,Online Sports Wagering
+HOLLYWOOD CASINO,Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Barstool,17,Online Sports Wagering
+HOLLYWOOD CASINO,State Tax Due (34%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Barstool,18,Online Sports Wagering
+HOLLYWOOD CASINO,Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Barstool,19,Online Sports Wagering
+HOLLYWOOD CASINO,,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Barstool,20,not_figure
+RIVERS - PITTSBURGH,RIVERS,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,BetRivers,21,not_figure
+RIVERS - PITTSBURGH,Total Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,BetRivers,22,not_figure
+RIVERS - PITTSBURGH,Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,BetRivers,23,Total Sports Wagering
+RIVERS - PITTSBURGH,Revenue,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,BetRivers,24,Total Sports Wagering
+RIVERS - PITTSBURGH,Promotional Credits,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,BetRivers,25,Total Sports Wagering
+RIVERS - PITTSBURGH,Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,BetRivers,26,Total Sports Wagering
+RIVERS - PITTSBURGH,State Tax Due (34%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,BetRivers,27,Total Sports Wagering
+RIVERS - PITTSBURGH,Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,BetRivers,28,Total Sports Wagering
+RIVERS - PITTSBURGH,Retail Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,BetRivers,29,not_figure
+RIVERS - PITTSBURGH,Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,BetRivers,30,Retail Sports Wagering
+RIVERS - PITTSBURGH,Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,BetRivers,31,Retail Sports Wagering
+RIVERS - PITTSBURGH,State Tax Due (34%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,BetRivers,32,Retail Sports Wagering
+RIVERS - PITTSBURGH,Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,BetRivers,33,Retail Sports Wagering
+RIVERS - PITTSBURGH,Online Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,BetRivers,34,not_figure
+RIVERS - PITTSBURGH,Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,BetRivers,35,Online Sports Wagering
+RIVERS - PITTSBURGH,Revenue,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,BetRivers,36,Online Sports Wagering
+RIVERS - PITTSBURGH,Promotional Credits,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,BetRivers,37,Online Sports Wagering
+RIVERS - PITTSBURGH,Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,BetRivers,38,Online Sports Wagering
+RIVERS - PITTSBURGH,State Tax Due (34%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,BetRivers,39,Online Sports Wagering
+RIVERS - PITTSBURGH,Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,BetRivers,40,Online Sports Wagering
+RIVERS - PITTSBURGH,,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,BetRivers,41,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),SUGARHOUSE CASINO,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,42,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Total Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,43,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,44,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Revenue,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,45,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Promotional Credits,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,46,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,47,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),State Tax Due (34%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,48,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,49,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Retail Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,50,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,51,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,52,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),State Tax Due (34%) ,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,53,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,54,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Online Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,55,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,56,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Revenue,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,57,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Promotional Credits,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,58,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,59,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),State Tax Due (34%) ,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,60,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,61,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,62,not_figure
+PARX CASINO,PARX CASINO,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Parx,63,not_figure
+PARX CASINO,Total Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Parx,64,not_figure
+PARX CASINO,Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Parx,65,Total Sports Wagering
+PARX CASINO,Revenue,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Parx,66,Total Sports Wagering
+PARX CASINO,Promotional Credits,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Parx,67,Total Sports Wagering
+PARX CASINO,Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Parx,68,Total Sports Wagering
+PARX CASINO,State Tax Due (34%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Parx,69,Total Sports Wagering
+PARX CASINO,Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Parx,70,Total Sports Wagering
+PARX CASINO,Retail Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Parx,71,not_figure
+PARX CASINO,Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Parx,72,Retail Sports Wagering
+PARX CASINO,Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Parx,73,Retail Sports Wagering
+PARX CASINO,State Tax Due (34%) ,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Parx,74,Retail Sports Wagering
+PARX CASINO,Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Parx,75,Retail Sports Wagering
+PARX CASINO,Online Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Parx,76,not_figure
+PARX CASINO,Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Parx,77,Online Sports Wagering
+PARX CASINO,Revenue,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Parx,78,Online Sports Wagering
+PARX CASINO,Promotional Credits,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Parx,79,Online Sports Wagering
+PARX CASINO,Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Parx,80,Online Sports Wagering
+PARX CASINO,State Tax Due (34%) ,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Parx,81,Online Sports Wagering
+PARX CASINO,Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Parx,82,Online Sports Wagering
+PARX CASINO,,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Parx,83,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,SOUTH PHILADELPHIA RACE AND SPORTSBOOK,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,84,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Total Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,85,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,86,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Revenue,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,87,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,88,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,89,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,State Tax Due (34%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,90,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,91,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Retail Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,92,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,93,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,94,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,95,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,96,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Online Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,97,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,98,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Revenue,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,99,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,100,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,101,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,102,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,103,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,104,not_figure
+HARRAH'S,HARRAH'S,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Caesars,105,not_figure
+HARRAH'S,Total Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Caesars,106,not_figure
+HARRAH'S,Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Caesars,107,Total Sports Wagering
+HARRAH'S,Revenue,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Caesars,108,Total Sports Wagering
+HARRAH'S,Promotional Credits,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Caesars,109,Total Sports Wagering
+HARRAH'S,Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Caesars,110,Total Sports Wagering
+HARRAH'S,State Tax Due (34%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Caesars,111,Total Sports Wagering
+HARRAH'S,Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Caesars,112,Total Sports Wagering
+HARRAH'S,Retail Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Caesars,113,not_figure
+HARRAH'S,Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Caesars,114,Retail Sports Wagering
+HARRAH'S,Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Caesars,115,Retail Sports Wagering
+HARRAH'S,State Tax Due (34%) ,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Caesars,116,Retail Sports Wagering
+HARRAH'S,Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Caesars,117,Retail Sports Wagering
+HARRAH'S,Online Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Caesars,118,not_figure
+HARRAH'S,Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Caesars,119,Online Sports Wagering
+HARRAH'S,Revenue,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Caesars,120,Online Sports Wagering
+HARRAH'S,Promotional Credits,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Caesars,121,Online Sports Wagering
+HARRAH'S,Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Caesars,122,Online Sports Wagering
+HARRAH'S,State Tax Due (34%) ,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Caesars,123,Online Sports Wagering
+HARRAH'S,Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Caesars,124,Online Sports Wagering
+HARRAH'S,,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Caesars,125,not_figure
+VALLEY FORGE CASINO,VALLEY FORGE CASINO,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,126,not_figure
+VALLEY FORGE CASINO,Total Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,127,not_figure
+VALLEY FORGE CASINO,Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,128,Total Sports Wagering
+VALLEY FORGE CASINO,Revenue,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,129,Total Sports Wagering
+VALLEY FORGE CASINO,Promotional Credits,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,130,Total Sports Wagering
+VALLEY FORGE CASINO,Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,131,Total Sports Wagering
+VALLEY FORGE CASINO,State Tax Due (34%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,132,Total Sports Wagering
+VALLEY FORGE CASINO,Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,133,Total Sports Wagering
+VALLEY FORGE CASINO,Retail Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,134,not_figure
+VALLEY FORGE CASINO,Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,135,Retail Sports Wagering
+VALLEY FORGE CASINO,Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,136,Retail Sports Wagering
+VALLEY FORGE CASINO,State Tax Due (34%) ,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,137,Retail Sports Wagering
+VALLEY FORGE CASINO,Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,138,Retail Sports Wagering
+VALLEY FORGE CASINO,Online Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,139,not_figure
+VALLEY FORGE CASINO,Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,140,Online Sports Wagering
+VALLEY FORGE CASINO,Revenue,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,141,Online Sports Wagering
+VALLEY FORGE CASINO,Promotional Credits,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,142,Online Sports Wagering
+VALLEY FORGE CASINO,Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,143,Online Sports Wagering
+VALLEY FORGE CASINO,State Tax Due (34%) ,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,144,Online Sports Wagering
+VALLEY FORGE CASINO,Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,145,Online Sports Wagering
+VALLEY FORGE CASINO,,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,146,not_figure
+OAKS RACE AND SPORTSBOOK,OAKS RACE AND SPORTSBOOK,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,147,not_figure
+OAKS RACE AND SPORTSBOOK,Total Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,148,not_figure
+OAKS RACE AND SPORTSBOOK,Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,149,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Revenue,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,150,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,151,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,152,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,State Tax Due (34%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,153,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,154,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Retail Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,155,not_figure
+OAKS RACE AND SPORTSBOOK,Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,156,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,157,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,158,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,159,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,Online Sports Wagering,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,160,not_figure
+OAKS RACE AND SPORTSBOOK,Handle*,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,161,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,Revenue,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,162,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,163,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,164,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Nov,2018,MONTHLY Sports Wagering Report,PA,none,165,Online Sports Wagering
+HOLLYWOOD CASINO,HOLLYWOOD CASINO,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Barstool,166,Online Sports Wagering
+HOLLYWOOD CASINO,Total Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Barstool,167,not_figure
+HOLLYWOOD CASINO,Handle*,5051730,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Barstool,168,Total Sports Wagering
+HOLLYWOOD CASINO,Revenue,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Barstool,169,Total Sports Wagering
+HOLLYWOOD CASINO,Promotional Credits,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Barstool,170,Total Sports Wagering
+HOLLYWOOD CASINO,Gross Revenue (Taxable),299222,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Barstool,171,Total Sports Wagering
+HOLLYWOOD CASINO,State Tax Due (34%),101736,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Barstool,172,Total Sports Wagering
+HOLLYWOOD CASINO,Local Share Assessment (2%),5984,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Barstool,173,Total Sports Wagering
+HOLLYWOOD CASINO,Retail Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Barstool,174,not_figure
+HOLLYWOOD CASINO,Handle*,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Barstool,175,Retail Sports Wagering
+HOLLYWOOD CASINO,Gross Revenue (Taxable),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Barstool,176,Retail Sports Wagering
+HOLLYWOOD CASINO,State Tax Due (34%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Barstool,177,Retail Sports Wagering
+HOLLYWOOD CASINO,Local Share Assessment (2%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Barstool,178,Retail Sports Wagering
+HOLLYWOOD CASINO,Online Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Barstool,179,not_figure
+HOLLYWOOD CASINO,Handle*,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Barstool,180,Online Sports Wagering
+HOLLYWOOD CASINO,Revenue,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Barstool,181,Online Sports Wagering
+HOLLYWOOD CASINO,Promotional Credits,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Barstool,182,Online Sports Wagering
+HOLLYWOOD CASINO,Gross Revenue (Taxable),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Barstool,183,Online Sports Wagering
+HOLLYWOOD CASINO,State Tax Due (34%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Barstool,184,Online Sports Wagering
+HOLLYWOOD CASINO,Local Share Assessment (2%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Barstool,185,Online Sports Wagering
+HOLLYWOOD CASINO,,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Barstool,186,not_figure
+RIVERS - PITTSBURGH,RIVERS,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,BetRivers,187,not_figure
+RIVERS - PITTSBURGH,Total Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,BetRivers,188,not_figure
+RIVERS - PITTSBURGH,Handle*,5581553,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,BetRivers,189,Total Sports Wagering
+RIVERS - PITTSBURGH,Revenue,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,BetRivers,190,Total Sports Wagering
+RIVERS - PITTSBURGH,Promotional Credits,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,BetRivers,191,Total Sports Wagering
+RIVERS - PITTSBURGH,Gross Revenue (Taxable),1066157,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,BetRivers,192,Total Sports Wagering
+RIVERS - PITTSBURGH,State Tax Due (34%),362493,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,BetRivers,193,Total Sports Wagering
+RIVERS - PITTSBURGH,Local Share Assessment (2%),21323,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,BetRivers,194,Total Sports Wagering
+RIVERS - PITTSBURGH,Retail Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,BetRivers,195,not_figure
+RIVERS - PITTSBURGH,Handle*,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,BetRivers,196,Retail Sports Wagering
+RIVERS - PITTSBURGH,Gross Revenue (Taxable),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,BetRivers,197,Retail Sports Wagering
+RIVERS - PITTSBURGH,State Tax Due (34%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,BetRivers,198,Retail Sports Wagering
+RIVERS - PITTSBURGH,Local Share Assessment (2%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,BetRivers,199,Retail Sports Wagering
+RIVERS - PITTSBURGH,Online Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,BetRivers,200,not_figure
+RIVERS - PITTSBURGH,Handle*,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,BetRivers,201,Online Sports Wagering
+RIVERS - PITTSBURGH,Revenue,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,BetRivers,202,Online Sports Wagering
+RIVERS - PITTSBURGH,Promotional Credits,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,BetRivers,203,Online Sports Wagering
+RIVERS - PITTSBURGH,Gross Revenue (Taxable),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,BetRivers,204,Online Sports Wagering
+RIVERS - PITTSBURGH,State Tax Due (34%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,BetRivers,205,Online Sports Wagering
+RIVERS - PITTSBURGH,Local Share Assessment (2%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,BetRivers,206,Online Sports Wagering
+RIVERS - PITTSBURGH,,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,BetRivers,207,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),SUGARHOUSE CASINO,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,208,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Total Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,209,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Handle*,5539806,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,210,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Revenue,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,211,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Promotional Credits,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,212,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Gross Revenue (Taxable),642213,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,213,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),State Tax Due (34%),218353,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,214,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Local Share Assessment (2%),12844,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,215,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Retail Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,216,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Handle*,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,217,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Gross Revenue (Taxable),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,218,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),State Tax Due (34%) ,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,219,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Local Share Assessment (2%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,220,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Online Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,221,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Handle*,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,222,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Revenue,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,223,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Promotional Credits,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,224,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Gross Revenue (Taxable),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,225,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),State Tax Due (34%) ,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,226,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Local Share Assessment (2%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,227,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,SugarHouse,228,not_figure
+PARX CASINO,PARX CASINO,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Parx,229,not_figure
+PARX CASINO,Total Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Parx,230,not_figure
+PARX CASINO,Handle*,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Parx,231,Total Sports Wagering
+PARX CASINO,Revenue,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Parx,232,Total Sports Wagering
+PARX CASINO,Promotional Credits,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Parx,233,Total Sports Wagering
+PARX CASINO,Gross Revenue (Taxable),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Parx,234,Total Sports Wagering
+PARX CASINO,State Tax Due (34%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Parx,235,Total Sports Wagering
+PARX CASINO,Local Share Assessment (2%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Parx,236,Total Sports Wagering
+PARX CASINO,Retail Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Parx,237,not_figure
+PARX CASINO,Handle*,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Parx,238,Retail Sports Wagering
+PARX CASINO,Gross Revenue (Taxable),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Parx,239,Retail Sports Wagering
+PARX CASINO,State Tax Due (34%) ,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Parx,240,Retail Sports Wagering
+PARX CASINO,Local Share Assessment (2%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Parx,241,Retail Sports Wagering
+PARX CASINO,Online Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Parx,242,not_figure
+PARX CASINO,Handle*,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Parx,243,Online Sports Wagering
+PARX CASINO,Revenue,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Parx,244,Online Sports Wagering
+PARX CASINO,Promotional Credits,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Parx,245,Online Sports Wagering
+PARX CASINO,Gross Revenue (Taxable),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Parx,246,Online Sports Wagering
+PARX CASINO,State Tax Due (34%) ,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Parx,247,Online Sports Wagering
+PARX CASINO,Local Share Assessment (2%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Parx,248,Online Sports Wagering
+PARX CASINO,,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Parx,249,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,SOUTH PHILADELPHIA RACE AND SPORTSBOOK,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,250,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Total Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,251,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Handle*,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,252,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Revenue,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,253,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,254,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,255,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,State Tax Due (34%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,256,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,257,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Retail Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,258,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Handle*,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,259,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,260,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,261,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,262,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Online Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,263,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Handle*,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,264,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Revenue,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,265,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,266,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,267,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,268,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,269,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,270,not_figure
+HARRAH'S,HARRAH'S,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Caesars,271,not_figure
+HARRAH'S,Total Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Caesars,272,not_figure
+HARRAH'S,Handle*,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Caesars,273,Total Sports Wagering
+HARRAH'S,Revenue,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Caesars,274,Total Sports Wagering
+HARRAH'S,Promotional Credits,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Caesars,275,Total Sports Wagering
+HARRAH'S,Gross Revenue (Taxable),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Caesars,276,Total Sports Wagering
+HARRAH'S,State Tax Due (34%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Caesars,277,Total Sports Wagering
+HARRAH'S,Local Share Assessment (2%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Caesars,278,Total Sports Wagering
+HARRAH'S,Retail Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Caesars,279,not_figure
+HARRAH'S,Handle*,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Caesars,280,Retail Sports Wagering
+HARRAH'S,Gross Revenue (Taxable),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Caesars,281,Retail Sports Wagering
+HARRAH'S,State Tax Due (34%) ,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Caesars,282,Retail Sports Wagering
+HARRAH'S,Local Share Assessment (2%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Caesars,283,Retail Sports Wagering
+HARRAH'S,Online Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Caesars,284,not_figure
+HARRAH'S,Handle*,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Caesars,285,Online Sports Wagering
+HARRAH'S,Revenue,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Caesars,286,Online Sports Wagering
+HARRAH'S,Promotional Credits,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Caesars,287,Online Sports Wagering
+HARRAH'S,Gross Revenue (Taxable),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Caesars,288,Online Sports Wagering
+HARRAH'S,State Tax Due (34%) ,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Caesars,289,Online Sports Wagering
+HARRAH'S,Local Share Assessment (2%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Caesars,290,Online Sports Wagering
+HARRAH'S,,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Caesars,291,not_figure
+VALLEY FORGE CASINO,VALLEY FORGE CASINO,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,292,not_figure
+VALLEY FORGE CASINO,Total Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,293,not_figure
+VALLEY FORGE CASINO,Handle*,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,294,Total Sports Wagering
+VALLEY FORGE CASINO,Revenue,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,295,Total Sports Wagering
+VALLEY FORGE CASINO,Promotional Credits,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,296,Total Sports Wagering
+VALLEY FORGE CASINO,Gross Revenue (Taxable),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,297,Total Sports Wagering
+VALLEY FORGE CASINO,State Tax Due (34%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,298,Total Sports Wagering
+VALLEY FORGE CASINO,Local Share Assessment (2%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,299,Total Sports Wagering
+VALLEY FORGE CASINO,Retail Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,300,not_figure
+VALLEY FORGE CASINO,Handle*,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,301,Retail Sports Wagering
+VALLEY FORGE CASINO,Gross Revenue (Taxable),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,302,Retail Sports Wagering
+VALLEY FORGE CASINO,State Tax Due (34%) ,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,303,Retail Sports Wagering
+VALLEY FORGE CASINO,Local Share Assessment (2%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,304,Retail Sports Wagering
+VALLEY FORGE CASINO,Online Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,305,not_figure
+VALLEY FORGE CASINO,Handle*,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,306,Online Sports Wagering
+VALLEY FORGE CASINO,Revenue,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,307,Online Sports Wagering
+VALLEY FORGE CASINO,Promotional Credits,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,308,Online Sports Wagering
+VALLEY FORGE CASINO,Gross Revenue (Taxable),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,309,Online Sports Wagering
+VALLEY FORGE CASINO,State Tax Due (34%) ,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,310,Online Sports Wagering
+VALLEY FORGE CASINO,Local Share Assessment (2%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,311,Online Sports Wagering
+VALLEY FORGE CASINO,,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,312,not_figure
+OAKS RACE AND SPORTSBOOK,OAKS RACE AND SPORTSBOOK,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,313,not_figure
+OAKS RACE AND SPORTSBOOK,Total Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,314,not_figure
+OAKS RACE AND SPORTSBOOK,Handle*,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,315,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Revenue,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,316,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,317,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,318,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,State Tax Due (34%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,319,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,320,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Retail Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,321,not_figure
+OAKS RACE AND SPORTSBOOK,Handle*,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,322,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,323,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,324,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,325,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,Online Sports Wagering,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,326,not_figure
+OAKS RACE AND SPORTSBOOK,Handle*,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,327,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,Revenue,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,328,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,329,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,330,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Dec,2018,MONTHLY Sports Wagering Report,PA,none,331,Online Sports Wagering
+HOLLYWOOD CASINO,HOLLYWOOD CASINO,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Barstool,332,Online Sports Wagering
+HOLLYWOOD CASINO,Total Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Barstool,333,not_figure
+HOLLYWOOD CASINO,Handle*,4817151,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Barstool,334,Total Sports Wagering
+HOLLYWOOD CASINO,Revenue,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Barstool,335,Total Sports Wagering
+HOLLYWOOD CASINO,Promotional Credits,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Barstool,336,Total Sports Wagering
+HOLLYWOOD CASINO,Gross Revenue (Taxable),284624,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Barstool,337,Total Sports Wagering
+HOLLYWOOD CASINO,State Tax Due (34%),96772,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Barstool,338,Total Sports Wagering
+HOLLYWOOD CASINO,Local Share Assessment (2%),5692,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Barstool,339,Total Sports Wagering
+HOLLYWOOD CASINO,Retail Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Barstool,340,not_figure
+HOLLYWOOD CASINO,Handle*,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Barstool,341,Retail Sports Wagering
+HOLLYWOOD CASINO,Gross Revenue (Taxable),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Barstool,342,Retail Sports Wagering
+HOLLYWOOD CASINO,State Tax Due (34%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Barstool,343,Retail Sports Wagering
+HOLLYWOOD CASINO,Local Share Assessment (2%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Barstool,344,Retail Sports Wagering
+HOLLYWOOD CASINO,Online Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Barstool,345,not_figure
+HOLLYWOOD CASINO,Handle*,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Barstool,346,Online Sports Wagering
+HOLLYWOOD CASINO,Revenue,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Barstool,347,Online Sports Wagering
+HOLLYWOOD CASINO,Promotional Credits,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Barstool,348,Online Sports Wagering
+HOLLYWOOD CASINO,Gross Revenue (Taxable),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Barstool,349,Online Sports Wagering
+HOLLYWOOD CASINO,State Tax Due (34%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Barstool,350,Online Sports Wagering
+HOLLYWOOD CASINO,Local Share Assessment (2%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Barstool,351,Online Sports Wagering
+HOLLYWOOD CASINO,,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Barstool,352,not_figure
+RIVERS - PITTSBURGH,RIVERS,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,BetRivers,353,not_figure
+RIVERS - PITTSBURGH,Total Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,BetRivers,354,not_figure
+RIVERS - PITTSBURGH,Handle*,9543112,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,BetRivers,355,Total Sports Wagering
+RIVERS - PITTSBURGH,Revenue,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,BetRivers,356,Total Sports Wagering
+RIVERS - PITTSBURGH,Promotional Credits,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,BetRivers,357,Total Sports Wagering
+RIVERS - PITTSBURGH,Gross Revenue (Taxable),853316,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,BetRivers,358,Total Sports Wagering
+RIVERS - PITTSBURGH,State Tax Due (34%),290127,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,BetRivers,359,Total Sports Wagering
+RIVERS - PITTSBURGH,Local Share Assessment (2%),17066,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,BetRivers,360,Total Sports Wagering
+RIVERS - PITTSBURGH,Retail Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,BetRivers,361,not_figure
+RIVERS - PITTSBURGH,Handle*,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,BetRivers,362,Retail Sports Wagering
+RIVERS - PITTSBURGH,Gross Revenue (Taxable),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,BetRivers,363,Retail Sports Wagering
+RIVERS - PITTSBURGH,State Tax Due (34%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,BetRivers,364,Retail Sports Wagering
+RIVERS - PITTSBURGH,Local Share Assessment (2%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,BetRivers,365,Retail Sports Wagering
+RIVERS - PITTSBURGH,Online Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,BetRivers,366,not_figure
+RIVERS - PITTSBURGH,Handle*,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,BetRivers,367,Online Sports Wagering
+RIVERS - PITTSBURGH,Revenue,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,BetRivers,368,Online Sports Wagering
+RIVERS - PITTSBURGH,Promotional Credits,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,BetRivers,369,Online Sports Wagering
+RIVERS - PITTSBURGH,Gross Revenue (Taxable),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,BetRivers,370,Online Sports Wagering
+RIVERS - PITTSBURGH,State Tax Due (34%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,BetRivers,371,Online Sports Wagering
+RIVERS - PITTSBURGH,Local Share Assessment (2%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,BetRivers,372,Online Sports Wagering
+RIVERS - PITTSBURGH,,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,BetRivers,373,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),SUGARHOUSE CASINO,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,374,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Total Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,375,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Handle*,10795121,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,376,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Revenue,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,377,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Promotional Credits,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,378,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Gross Revenue (Taxable),103523,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,379,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),State Tax Due (34%),35198,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,380,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Local Share Assessment (2%),2070,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,381,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Retail Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,382,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Handle*,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,383,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Gross Revenue (Taxable),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,384,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),State Tax Due (34%) ,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,385,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Local Share Assessment (2%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,386,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Online Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,387,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Handle*,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,388,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Revenue,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,389,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Promotional Credits,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,390,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Gross Revenue (Taxable),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,391,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),State Tax Due (34%) ,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,392,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Local Share Assessment (2%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,393,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,394,not_figure
+PARX CASINO,PARX CASINO,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Parx,395,not_figure
+PARX CASINO,Total Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Parx,396,not_figure
+PARX CASINO,Handle*,5382620,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Parx,397,Total Sports Wagering
+PARX CASINO,Revenue,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Parx,398,Total Sports Wagering
+PARX CASINO,Promotional Credits,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Parx,399,Total Sports Wagering
+PARX CASINO,Gross Revenue (Taxable),1170348,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Parx,400,Total Sports Wagering
+PARX CASINO,State Tax Due (34%),397918,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Parx,401,Total Sports Wagering
+PARX CASINO,Local Share Assessment (2%),23407,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Parx,402,Total Sports Wagering
+PARX CASINO,Retail Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Parx,403,not_figure
+PARX CASINO,Handle*,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Parx,404,Retail Sports Wagering
+PARX CASINO,Gross Revenue (Taxable),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Parx,405,Retail Sports Wagering
+PARX CASINO,State Tax Due (34%) ,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Parx,406,Retail Sports Wagering
+PARX CASINO,Local Share Assessment (2%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Parx,407,Retail Sports Wagering
+PARX CASINO,Online Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Parx,408,not_figure
+PARX CASINO,Handle*,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Parx,409,Online Sports Wagering
+PARX CASINO,Revenue,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Parx,410,Online Sports Wagering
+PARX CASINO,Promotional Credits,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Parx,411,Online Sports Wagering
+PARX CASINO,Gross Revenue (Taxable),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Parx,412,Online Sports Wagering
+PARX CASINO,State Tax Due (34%) ,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Parx,413,Online Sports Wagering
+PARX CASINO,Local Share Assessment (2%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Parx,414,Online Sports Wagering
+PARX CASINO,,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Parx,415,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,SOUTH PHILADELPHIA RACE AND SPORTSBOOK,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,416,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Total Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,417,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Handle*,858130,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,418,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Revenue,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,419,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,420,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Gross Revenue (Taxable),91835,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,421,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,State Tax Due (34%),31224,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,422,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Local Share Assessment (2%),1837,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,423,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Retail Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,424,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Handle*,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,425,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,426,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,427,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,428,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Online Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,429,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Handle*,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,430,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Revenue,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,431,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,432,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,433,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,434,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,435,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,436,not_figure
+HARRAH'S,HARRAH'S,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Caesars,437,not_figure
+HARRAH'S,Total Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Caesars,438,not_figure
+HARRAH'S,Handle*,615704,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Caesars,439,Total Sports Wagering
+HARRAH'S,Revenue,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Caesars,440,Total Sports Wagering
+HARRAH'S,Promotional Credits,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Caesars,441,Total Sports Wagering
+HARRAH'S,Gross Revenue (Taxable),103569,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Caesars,442,Total Sports Wagering
+HARRAH'S,State Tax Due (34%),35214,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Caesars,443,Total Sports Wagering
+HARRAH'S,Local Share Assessment (2%),2071,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Caesars,444,Total Sports Wagering
+HARRAH'S,Retail Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Caesars,445,not_figure
+HARRAH'S,Handle*,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Caesars,446,Retail Sports Wagering
+HARRAH'S,Gross Revenue (Taxable),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Caesars,447,Retail Sports Wagering
+HARRAH'S,State Tax Due (34%) ,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Caesars,448,Retail Sports Wagering
+HARRAH'S,Local Share Assessment (2%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Caesars,449,Retail Sports Wagering
+HARRAH'S,Online Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Caesars,450,not_figure
+HARRAH'S,Handle*,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Caesars,451,Online Sports Wagering
+HARRAH'S,Revenue,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Caesars,452,Online Sports Wagering
+HARRAH'S,Promotional Credits,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Caesars,453,Online Sports Wagering
+HARRAH'S,Gross Revenue (Taxable),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Caesars,454,Online Sports Wagering
+HARRAH'S,State Tax Due (34%) ,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Caesars,455,Online Sports Wagering
+HARRAH'S,Local Share Assessment (2%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Caesars,456,Online Sports Wagering
+HARRAH'S,,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Caesars,457,not_figure
+VALLEY FORGE CASINO,VALLEY FORGE CASINO,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,458,not_figure
+VALLEY FORGE CASINO,Total Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,459,not_figure
+VALLEY FORGE CASINO,Handle*,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,460,Total Sports Wagering
+VALLEY FORGE CASINO,Revenue,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,461,Total Sports Wagering
+VALLEY FORGE CASINO,Promotional Credits,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,462,Total Sports Wagering
+VALLEY FORGE CASINO,Gross Revenue (Taxable),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,463,Total Sports Wagering
+VALLEY FORGE CASINO,State Tax Due (34%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,464,Total Sports Wagering
+VALLEY FORGE CASINO,Local Share Assessment (2%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,465,Total Sports Wagering
+VALLEY FORGE CASINO,Retail Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,466,not_figure
+VALLEY FORGE CASINO,Handle*,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,467,Retail Sports Wagering
+VALLEY FORGE CASINO,Gross Revenue (Taxable),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,468,Retail Sports Wagering
+VALLEY FORGE CASINO,State Tax Due (34%) ,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,469,Retail Sports Wagering
+VALLEY FORGE CASINO,Local Share Assessment (2%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,470,Retail Sports Wagering
+VALLEY FORGE CASINO,Online Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,471,not_figure
+VALLEY FORGE CASINO,Handle*,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,472,Online Sports Wagering
+VALLEY FORGE CASINO,Revenue,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,473,Online Sports Wagering
+VALLEY FORGE CASINO,Promotional Credits,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,474,Online Sports Wagering
+VALLEY FORGE CASINO,Gross Revenue (Taxable),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,475,Online Sports Wagering
+VALLEY FORGE CASINO,State Tax Due (34%) ,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,476,Online Sports Wagering
+VALLEY FORGE CASINO,Local Share Assessment (2%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,477,Online Sports Wagering
+VALLEY FORGE CASINO,,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,478,not_figure
+OAKS RACE AND SPORTSBOOK,OAKS RACE AND SPORTSBOOK,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,479,not_figure
+OAKS RACE AND SPORTSBOOK,Total Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,480,not_figure
+OAKS RACE AND SPORTSBOOK,Handle*,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,481,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Revenue,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,482,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,483,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,484,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,State Tax Due (34%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,485,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,486,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Retail Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,487,not_figure
+OAKS RACE AND SPORTSBOOK,Handle*,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,488,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,489,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,490,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,491,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,Online Sports Wagering,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,492,not_figure
+OAKS RACE AND SPORTSBOOK,Handle*,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,493,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,Revenue,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,494,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,495,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,496,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Jan,2019,MONTHLY Sports Wagering Report,PA,none,497,Online Sports Wagering
+HOLLYWOOD CASINO,HOLLYWOOD CASINO,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Barstool,498,Online Sports Wagering
+HOLLYWOOD CASINO,Total Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Barstool,499,not_figure
+HOLLYWOOD CASINO,Handle*,3742820,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Barstool,500,Total Sports Wagering
+HOLLYWOOD CASINO,Revenue,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Barstool,501,Total Sports Wagering
+HOLLYWOOD CASINO,Promotional Credits,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Barstool,502,Total Sports Wagering
+HOLLYWOOD CASINO,Gross Revenue (Taxable),13914,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Barstool,503,Total Sports Wagering
+HOLLYWOOD CASINO,State Tax Due (34%),4731,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Barstool,504,Total Sports Wagering
+HOLLYWOOD CASINO,Local Share Assessment (2%),278,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Barstool,505,Total Sports Wagering
+HOLLYWOOD CASINO,Retail Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Barstool,506,not_figure
+HOLLYWOOD CASINO,Handle*,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Barstool,507,Retail Sports Wagering
+HOLLYWOOD CASINO,Gross Revenue (Taxable),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Barstool,508,Retail Sports Wagering
+HOLLYWOOD CASINO,State Tax Due (34%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Barstool,509,Retail Sports Wagering
+HOLLYWOOD CASINO,Local Share Assessment (2%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Barstool,510,Retail Sports Wagering
+HOLLYWOOD CASINO,Online Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Barstool,511,not_figure
+HOLLYWOOD CASINO,Handle*,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Barstool,512,Online Sports Wagering
+HOLLYWOOD CASINO,Revenue,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Barstool,513,Online Sports Wagering
+HOLLYWOOD CASINO,Promotional Credits,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Barstool,514,Online Sports Wagering
+HOLLYWOOD CASINO,Gross Revenue (Taxable),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Barstool,515,Online Sports Wagering
+HOLLYWOOD CASINO,State Tax Due (34%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Barstool,516,Online Sports Wagering
+HOLLYWOOD CASINO,Local Share Assessment (2%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Barstool,517,Online Sports Wagering
+HOLLYWOOD CASINO,,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Barstool,518,not_figure
+RIVERS - PITTSBURGH,RIVERS,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,BetRivers,519,not_figure
+RIVERS - PITTSBURGH,Total Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,BetRivers,520,not_figure
+RIVERS - PITTSBURGH,Handle*,8147559,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,BetRivers,521,Total Sports Wagering
+RIVERS - PITTSBURGH,Revenue,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,BetRivers,522,Total Sports Wagering
+RIVERS - PITTSBURGH,Promotional Credits,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,BetRivers,523,Total Sports Wagering
+RIVERS - PITTSBURGH,Gross Revenue (Taxable),627521,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,BetRivers,524,Total Sports Wagering
+RIVERS - PITTSBURGH,State Tax Due (34%),213357,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,BetRivers,525,Total Sports Wagering
+RIVERS - PITTSBURGH,Local Share Assessment (2%),12550,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,BetRivers,526,Total Sports Wagering
+RIVERS - PITTSBURGH,Retail Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,BetRivers,527,not_figure
+RIVERS - PITTSBURGH,Handle*,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,BetRivers,528,Retail Sports Wagering
+RIVERS - PITTSBURGH,Gross Revenue (Taxable),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,BetRivers,529,Retail Sports Wagering
+RIVERS - PITTSBURGH,State Tax Due (34%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,BetRivers,530,Retail Sports Wagering
+RIVERS - PITTSBURGH,Local Share Assessment (2%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,BetRivers,531,Retail Sports Wagering
+RIVERS - PITTSBURGH,Online Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,BetRivers,532,not_figure
+RIVERS - PITTSBURGH,Handle*,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,BetRivers,533,Online Sports Wagering
+RIVERS - PITTSBURGH,Revenue,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,BetRivers,534,Online Sports Wagering
+RIVERS - PITTSBURGH,Promotional Credits,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,BetRivers,535,Online Sports Wagering
+RIVERS - PITTSBURGH,Gross Revenue (Taxable),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,BetRivers,536,Online Sports Wagering
+RIVERS - PITTSBURGH,State Tax Due (34%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,BetRivers,537,Online Sports Wagering
+RIVERS - PITTSBURGH,Local Share Assessment (2%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,BetRivers,538,Online Sports Wagering
+RIVERS - PITTSBURGH,,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,BetRivers,539,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),SUGARHOUSE CASINO,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,540,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Total Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,541,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Handle*,7091933,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,542,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Revenue,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,543,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Promotional Credits,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,544,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Gross Revenue (Taxable),522308,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,545,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),State Tax Due (34%),177585,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,546,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Local Share Assessment (2%),10446,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,547,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Retail Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,548,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Handle*,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,549,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Gross Revenue (Taxable),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,550,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),State Tax Due (34%) ,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,551,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Local Share Assessment (2%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,552,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Online Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,553,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Handle*,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,554,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Revenue,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,555,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Promotional Credits,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,556,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Gross Revenue (Taxable),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,557,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),State Tax Due (34%) ,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,558,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Local Share Assessment (2%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,559,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,560,not_figure
+PARX CASINO,PARX CASINO,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Parx,561,not_figure
+PARX CASINO,Total Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Parx,562,not_figure
+PARX CASINO,Handle*,6965512,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Parx,563,Total Sports Wagering
+PARX CASINO,Revenue,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Parx,564,Total Sports Wagering
+PARX CASINO,Promotional Credits,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Parx,565,Total Sports Wagering
+PARX CASINO,Gross Revenue (Taxable),369996,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Parx,566,Total Sports Wagering
+PARX CASINO,State Tax Due (34%),125799,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Parx,567,Total Sports Wagering
+PARX CASINO,Local Share Assessment (2%),7400,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Parx,568,Total Sports Wagering
+PARX CASINO,Retail Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Parx,569,not_figure
+PARX CASINO,Handle*,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Parx,570,Retail Sports Wagering
+PARX CASINO,Gross Revenue (Taxable),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Parx,571,Retail Sports Wagering
+PARX CASINO,State Tax Due (34%) ,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Parx,572,Retail Sports Wagering
+PARX CASINO,Local Share Assessment (2%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Parx,573,Retail Sports Wagering
+PARX CASINO,Online Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Parx,574,not_figure
+PARX CASINO,Handle*,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Parx,575,Online Sports Wagering
+PARX CASINO,Revenue,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Parx,576,Online Sports Wagering
+PARX CASINO,Promotional Credits,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Parx,577,Online Sports Wagering
+PARX CASINO,Gross Revenue (Taxable),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Parx,578,Online Sports Wagering
+PARX CASINO,State Tax Due (34%) ,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Parx,579,Online Sports Wagering
+PARX CASINO,Local Share Assessment (2%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Parx,580,Online Sports Wagering
+PARX CASINO,,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Parx,581,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,SOUTH PHILADELPHIA RACE AND SPORTSBOOK,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,582,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Total Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,583,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Handle*,2601651,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,584,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Revenue,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,585,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,586,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Gross Revenue (Taxable),275877,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,587,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,State Tax Due (34%),93798,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,588,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Local Share Assessment (2%),5518,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,589,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Retail Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,590,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Handle*,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,591,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,592,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,593,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,594,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Online Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,595,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Handle*,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,596,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Revenue,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,597,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,598,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,599,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,600,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,601,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,602,not_figure
+HARRAH'S,HARRAH'S,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Caesars,603,not_figure
+HARRAH'S,Total Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Caesars,604,not_figure
+HARRAH'S,Handle*,2951268,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Caesars,605,Total Sports Wagering
+HARRAH'S,Revenue,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Caesars,606,Total Sports Wagering
+HARRAH'S,Promotional Credits,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Caesars,607,Total Sports Wagering
+HARRAH'S,Gross Revenue (Taxable),137201,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Caesars,608,Total Sports Wagering
+HARRAH'S,State Tax Due (34%),46648,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Caesars,609,Total Sports Wagering
+HARRAH'S,Local Share Assessment (2%),2744,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Caesars,610,Total Sports Wagering
+HARRAH'S,Retail Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Caesars,611,not_figure
+HARRAH'S,Handle*,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Caesars,612,Retail Sports Wagering
+HARRAH'S,Gross Revenue (Taxable),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Caesars,613,Retail Sports Wagering
+HARRAH'S,State Tax Due (34%) ,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Caesars,614,Retail Sports Wagering
+HARRAH'S,Local Share Assessment (2%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Caesars,615,Retail Sports Wagering
+HARRAH'S,Online Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Caesars,616,not_figure
+HARRAH'S,Handle*,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Caesars,617,Online Sports Wagering
+HARRAH'S,Revenue,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Caesars,618,Online Sports Wagering
+HARRAH'S,Promotional Credits,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Caesars,619,Online Sports Wagering
+HARRAH'S,Gross Revenue (Taxable),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Caesars,620,Online Sports Wagering
+HARRAH'S,State Tax Due (34%) ,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Caesars,621,Online Sports Wagering
+HARRAH'S,Local Share Assessment (2%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Caesars,622,Online Sports Wagering
+HARRAH'S,,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Caesars,623,not_figure
+VALLEY FORGE CASINO,VALLEY FORGE CASINO,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,624,not_figure
+VALLEY FORGE CASINO,Total Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,625,not_figure
+VALLEY FORGE CASINO,Handle*,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,626,Total Sports Wagering
+VALLEY FORGE CASINO,Revenue,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,627,Total Sports Wagering
+VALLEY FORGE CASINO,Promotional Credits,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,628,Total Sports Wagering
+VALLEY FORGE CASINO,Gross Revenue (Taxable),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,629,Total Sports Wagering
+VALLEY FORGE CASINO,State Tax Due (34%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,630,Total Sports Wagering
+VALLEY FORGE CASINO,Local Share Assessment (2%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,631,Total Sports Wagering
+VALLEY FORGE CASINO,Retail Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,632,not_figure
+VALLEY FORGE CASINO,Handle*,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,633,Retail Sports Wagering
+VALLEY FORGE CASINO,Gross Revenue (Taxable),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,634,Retail Sports Wagering
+VALLEY FORGE CASINO,State Tax Due (34%) ,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,635,Retail Sports Wagering
+VALLEY FORGE CASINO,Local Share Assessment (2%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,636,Retail Sports Wagering
+VALLEY FORGE CASINO,Online Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,637,not_figure
+VALLEY FORGE CASINO,Handle*,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,638,Online Sports Wagering
+VALLEY FORGE CASINO,Revenue,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,639,Online Sports Wagering
+VALLEY FORGE CASINO,Promotional Credits,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,640,Online Sports Wagering
+VALLEY FORGE CASINO,Gross Revenue (Taxable),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,641,Online Sports Wagering
+VALLEY FORGE CASINO,State Tax Due (34%) ,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,642,Online Sports Wagering
+VALLEY FORGE CASINO,Local Share Assessment (2%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,643,Online Sports Wagering
+VALLEY FORGE CASINO,,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,644,not_figure
+OAKS RACE AND SPORTSBOOK,OAKS RACE AND SPORTSBOOK,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,645,not_figure
+OAKS RACE AND SPORTSBOOK,Total Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,646,not_figure
+OAKS RACE AND SPORTSBOOK,Handle*,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,647,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Revenue,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,648,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,649,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,650,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,State Tax Due (34%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,651,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,652,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Retail Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,653,not_figure
+OAKS RACE AND SPORTSBOOK,Handle*,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,654,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,655,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,656,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,657,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,Online Sports Wagering,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,658,not_figure
+OAKS RACE AND SPORTSBOOK,Handle*,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,659,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,Revenue,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,660,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,661,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,662,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Feb,2019,MONTHLY Sports Wagering Report,PA,none,663,Online Sports Wagering
+HOLLYWOOD CASINO,HOLLYWOOD CASINO,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Barstool,664,Online Sports Wagering
+HOLLYWOOD CASINO,Total Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Barstool,665,not_figure
+HOLLYWOOD CASINO,Handle*,5337483,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Barstool,666,Total Sports Wagering
+HOLLYWOOD CASINO,Revenue,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Barstool,667,Total Sports Wagering
+HOLLYWOOD CASINO,Promotional Credits,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Barstool,668,Total Sports Wagering
+HOLLYWOOD CASINO,Gross Revenue (Taxable),521864,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Barstool,669,Total Sports Wagering
+HOLLYWOOD CASINO,State Tax Due (34%),177434,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Barstool,670,Total Sports Wagering
+HOLLYWOOD CASINO,Local Share Assessment (2%),10437,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Barstool,671,Total Sports Wagering
+HOLLYWOOD CASINO,Retail Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Barstool,672,not_figure
+HOLLYWOOD CASINO,Handle*,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Barstool,673,Retail Sports Wagering
+HOLLYWOOD CASINO,Gross Revenue (Taxable),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Barstool,674,Retail Sports Wagering
+HOLLYWOOD CASINO,State Tax Due (34%),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Barstool,675,Retail Sports Wagering
+HOLLYWOOD CASINO,Local Share Assessment (2%),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Barstool,676,Retail Sports Wagering
+HOLLYWOOD CASINO,Online Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Barstool,677,not_figure
+HOLLYWOOD CASINO,Handle*,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Barstool,678,Online Sports Wagering
+HOLLYWOOD CASINO,Revenue,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Barstool,679,Online Sports Wagering
+HOLLYWOOD CASINO,Promotional Credits,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Barstool,680,Online Sports Wagering
+HOLLYWOOD CASINO,Gross Revenue (Taxable),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Barstool,681,Online Sports Wagering
+HOLLYWOOD CASINO,State Tax Due (34%),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Barstool,682,Online Sports Wagering
+HOLLYWOOD CASINO,Local Share Assessment (2%),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Barstool,683,Online Sports Wagering
+HOLLYWOOD CASINO,,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Barstool,684,not_figure
+RIVERS - PITTSBURGH,RIVERS,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,BetRivers,685,not_figure
+RIVERS - PITTSBURGH,Total Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,BetRivers,686,not_figure
+RIVERS - PITTSBURGH,Handle*,11901967,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,BetRivers,687,Total Sports Wagering
+RIVERS - PITTSBURGH,Revenue,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,BetRivers,688,Total Sports Wagering
+RIVERS - PITTSBURGH,Promotional Credits,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,BetRivers,689,Total Sports Wagering
+RIVERS - PITTSBURGH,Gross Revenue (Taxable),1344398,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,BetRivers,690,Total Sports Wagering
+RIVERS - PITTSBURGH,State Tax Due (34%),457095,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,BetRivers,691,Total Sports Wagering
+RIVERS - PITTSBURGH,Local Share Assessment (2%),26888,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,BetRivers,692,Total Sports Wagering
+RIVERS - PITTSBURGH,Retail Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,BetRivers,693,not_figure
+RIVERS - PITTSBURGH,Handle*,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,BetRivers,694,Retail Sports Wagering
+RIVERS - PITTSBURGH,Gross Revenue (Taxable),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,BetRivers,695,Retail Sports Wagering
+RIVERS - PITTSBURGH,State Tax Due (34%),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,BetRivers,696,Retail Sports Wagering
+RIVERS - PITTSBURGH,Local Share Assessment (2%),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,BetRivers,697,Retail Sports Wagering
+RIVERS - PITTSBURGH,Online Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,BetRivers,698,not_figure
+RIVERS - PITTSBURGH,Handle*,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,BetRivers,699,Online Sports Wagering
+RIVERS - PITTSBURGH,Revenue,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,BetRivers,700,Online Sports Wagering
+RIVERS - PITTSBURGH,Promotional Credits,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,BetRivers,701,Online Sports Wagering
+RIVERS - PITTSBURGH,Gross Revenue (Taxable),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,BetRivers,702,Online Sports Wagering
+RIVERS - PITTSBURGH,State Tax Due (34%),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,BetRivers,703,Online Sports Wagering
+RIVERS - PITTSBURGH,Local Share Assessment (2%),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,BetRivers,704,Online Sports Wagering
+RIVERS - PITTSBURGH,,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,BetRivers,705,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),SUGARHOUSE CASINO,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,706,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Total Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,707,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Handle*,9223827,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,708,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Revenue,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,709,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Promotional Credits,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,710,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Gross Revenue (Taxable),1237301,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,711,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),State Tax Due (34%),420682,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,712,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Local Share Assessment (2%),24746,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,713,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Retail Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,714,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Handle*,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,715,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Gross Revenue (Taxable),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,716,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),State Tax Due (34%) ,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,717,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Local Share Assessment (2%),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,718,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Online Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,719,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Handle*,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,720,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Revenue,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,721,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Promotional Credits,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,722,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Gross Revenue (Taxable),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,723,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),State Tax Due (34%) ,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,724,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Local Share Assessment (2%),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,725,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,726,not_figure
+PARX CASINO,PARX CASINO,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Parx,727,not_figure
+PARX CASINO,Total Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Parx,728,not_figure
+PARX CASINO,Handle*,7965932,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Parx,729,Total Sports Wagering
+PARX CASINO,Revenue,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Parx,730,Total Sports Wagering
+PARX CASINO,Promotional Credits,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Parx,731,Total Sports Wagering
+PARX CASINO,Gross Revenue (Taxable),984339,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Parx,732,Total Sports Wagering
+PARX CASINO,State Tax Due (34%),334675,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Parx,733,Total Sports Wagering
+PARX CASINO,Local Share Assessment (2%),19687,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Parx,734,Total Sports Wagering
+PARX CASINO,Retail Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Parx,735,not_figure
+PARX CASINO,Handle*,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Parx,736,Retail Sports Wagering
+PARX CASINO,Gross Revenue (Taxable),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Parx,737,Retail Sports Wagering
+PARX CASINO,State Tax Due (34%) ,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Parx,738,Retail Sports Wagering
+PARX CASINO,Local Share Assessment (2%),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Parx,739,Retail Sports Wagering
+PARX CASINO,Online Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Parx,740,not_figure
+PARX CASINO,Handle*,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Parx,741,Online Sports Wagering
+PARX CASINO,Revenue,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Parx,742,Online Sports Wagering
+PARX CASINO,Promotional Credits,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Parx,743,Online Sports Wagering
+PARX CASINO,Gross Revenue (Taxable),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Parx,744,Online Sports Wagering
+PARX CASINO,State Tax Due (34%) ,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Parx,745,Online Sports Wagering
+PARX CASINO,Local Share Assessment (2%),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Parx,746,Online Sports Wagering
+PARX CASINO,,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Parx,747,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,SOUTH PHILADELPHIA RACE AND SPORTSBOOK,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,748,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Total Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,749,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Handle*,3550264,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,750,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Revenue,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,751,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,752,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Gross Revenue (Taxable),534253,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,753,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,State Tax Due (34%),181646,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,754,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Local Share Assessment (2%),10685,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,755,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Retail Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,756,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Handle*,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,757,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,758,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,759,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,760,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Online Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,761,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Handle*,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,762,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Revenue,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,763,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,764,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,765,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,766,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,767,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,768,not_figure
+HARRAH'S,HARRAH'S,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Caesars,769,not_figure
+HARRAH'S,Total Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Caesars,770,not_figure
+HARRAH'S,Handle*,3794014,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Caesars,771,Total Sports Wagering
+HARRAH'S,Revenue,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Caesars,772,Total Sports Wagering
+HARRAH'S,Promotional Credits,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Caesars,773,Total Sports Wagering
+HARRAH'S,Gross Revenue (Taxable),326752,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Caesars,774,Total Sports Wagering
+HARRAH'S,State Tax Due (34%),111096,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Caesars,775,Total Sports Wagering
+HARRAH'S,Local Share Assessment (2%),6535,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Caesars,776,Total Sports Wagering
+HARRAH'S,Retail Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Caesars,777,not_figure
+HARRAH'S,Handle*,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Caesars,778,Retail Sports Wagering
+HARRAH'S,Gross Revenue (Taxable),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Caesars,779,Retail Sports Wagering
+HARRAH'S,State Tax Due (34%) ,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Caesars,780,Retail Sports Wagering
+HARRAH'S,Local Share Assessment (2%),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Caesars,781,Retail Sports Wagering
+HARRAH'S,Online Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Caesars,782,not_figure
+HARRAH'S,Handle*,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Caesars,783,Online Sports Wagering
+HARRAH'S,Revenue,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Caesars,784,Online Sports Wagering
+HARRAH'S,Promotional Credits,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Caesars,785,Online Sports Wagering
+HARRAH'S,Gross Revenue (Taxable),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Caesars,786,Online Sports Wagering
+HARRAH'S,State Tax Due (34%) ,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Caesars,787,Online Sports Wagering
+HARRAH'S,Local Share Assessment (2%),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Caesars,788,Online Sports Wagering
+HARRAH'S,,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Caesars,789,not_figure
+VALLEY FORGE CASINO,VALLEY FORGE CASINO,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,790,not_figure
+VALLEY FORGE CASINO,Total Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,791,not_figure
+VALLEY FORGE CASINO,Handle*,2047998,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,792,Total Sports Wagering
+VALLEY FORGE CASINO,Revenue,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,793,Total Sports Wagering
+VALLEY FORGE CASINO,Promotional Credits,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,794,Total Sports Wagering
+VALLEY FORGE CASINO,Gross Revenue (Taxable),449597,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,795,Total Sports Wagering
+VALLEY FORGE CASINO,State Tax Due (34%),152863,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,796,Total Sports Wagering
+VALLEY FORGE CASINO,Local Share Assessment (2%),8992,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,797,Total Sports Wagering
+VALLEY FORGE CASINO,Retail Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,798,not_figure
+VALLEY FORGE CASINO,Handle*,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,799,Retail Sports Wagering
+VALLEY FORGE CASINO,Gross Revenue (Taxable),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,800,Retail Sports Wagering
+VALLEY FORGE CASINO,State Tax Due (34%) ,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,801,Retail Sports Wagering
+VALLEY FORGE CASINO,Local Share Assessment (2%),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,802,Retail Sports Wagering
+VALLEY FORGE CASINO,Online Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,803,not_figure
+VALLEY FORGE CASINO,Handle*,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,804,Online Sports Wagering
+VALLEY FORGE CASINO,Revenue,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,805,Online Sports Wagering
+VALLEY FORGE CASINO,Promotional Credits,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,806,Online Sports Wagering
+VALLEY FORGE CASINO,Gross Revenue (Taxable),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,807,Online Sports Wagering
+VALLEY FORGE CASINO,State Tax Due (34%) ,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,808,Online Sports Wagering
+VALLEY FORGE CASINO,Local Share Assessment (2%),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,809,Online Sports Wagering
+VALLEY FORGE CASINO,,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,810,not_figure
+OAKS RACE AND SPORTSBOOK,OAKS RACE AND SPORTSBOOK,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,811,not_figure
+OAKS RACE AND SPORTSBOOK,Total Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,812,not_figure
+OAKS RACE AND SPORTSBOOK,Handle*,706089,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,813,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Revenue,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,814,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,815,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Gross Revenue (Taxable),120836,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,816,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,State Tax Due (34%),41084,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,817,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Local Share Assessment (2%),2417,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,818,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Retail Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,819,not_figure
+OAKS RACE AND SPORTSBOOK,Handle*,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,820,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,821,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,822,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,823,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,Online Sports Wagering,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,824,not_figure
+OAKS RACE AND SPORTSBOOK,Handle*,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,825,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,Revenue,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,826,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,827,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,828,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Mar,2019,MONTHLY Sports Wagering Report,PA,none,829,Online Sports Wagering
+HOLLYWOOD CASINO,HOLLYWOOD CASINO,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Barstool,830,Online Sports Wagering
+HOLLYWOOD CASINO,Total Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Barstool,831,not_figure
+HOLLYWOOD CASINO,Handle*,3923499,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Barstool,832,Total Sports Wagering
+HOLLYWOOD CASINO,Revenue,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Barstool,833,Total Sports Wagering
+HOLLYWOOD CASINO,Promotional Credits,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Barstool,834,Total Sports Wagering
+HOLLYWOOD CASINO,Gross Revenue (Taxable),361249,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Barstool,835,Total Sports Wagering
+HOLLYWOOD CASINO,State Tax Due (34%),122825,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Barstool,836,Total Sports Wagering
+HOLLYWOOD CASINO,Local Share Assessment (2%),7225,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Barstool,837,Total Sports Wagering
+HOLLYWOOD CASINO,Retail Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Barstool,838,not_figure
+HOLLYWOOD CASINO,Handle*,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Barstool,839,Retail Sports Wagering
+HOLLYWOOD CASINO,Gross Revenue (Taxable),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Barstool,840,Retail Sports Wagering
+HOLLYWOOD CASINO,State Tax Due (34%),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Barstool,841,Retail Sports Wagering
+HOLLYWOOD CASINO,Local Share Assessment (2%),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Barstool,842,Retail Sports Wagering
+HOLLYWOOD CASINO,Online Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Barstool,843,not_figure
+HOLLYWOOD CASINO,Handle*,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Barstool,844,Online Sports Wagering
+HOLLYWOOD CASINO,Revenue,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Barstool,845,Online Sports Wagering
+HOLLYWOOD CASINO,Promotional Credits,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Barstool,846,Online Sports Wagering
+HOLLYWOOD CASINO,Gross Revenue (Taxable),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Barstool,847,Online Sports Wagering
+HOLLYWOOD CASINO,State Tax Due (34%),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Barstool,848,Online Sports Wagering
+HOLLYWOOD CASINO,Local Share Assessment (2%),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Barstool,849,Online Sports Wagering
+HOLLYWOOD CASINO,,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Barstool,850,not_figure
+RIVERS - PITTSBURGH,RIVERS,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,BetRivers,851,not_figure
+RIVERS - PITTSBURGH,Total Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,BetRivers,852,not_figure
+RIVERS - PITTSBURGH,Handle*,8159827,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,BetRivers,853,Total Sports Wagering
+RIVERS - PITTSBURGH,Revenue,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,BetRivers,854,Total Sports Wagering
+RIVERS - PITTSBURGH,Promotional Credits,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,BetRivers,855,Total Sports Wagering
+RIVERS - PITTSBURGH,Gross Revenue (Taxable),871753,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,BetRivers,856,Total Sports Wagering
+RIVERS - PITTSBURGH,State Tax Due (34%),296396,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,BetRivers,857,Total Sports Wagering
+RIVERS - PITTSBURGH,Local Share Assessment (2%),17435,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,BetRivers,858,Total Sports Wagering
+RIVERS - PITTSBURGH,Retail Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,BetRivers,859,not_figure
+RIVERS - PITTSBURGH,Handle*,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,BetRivers,860,Retail Sports Wagering
+RIVERS - PITTSBURGH,Gross Revenue (Taxable),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,BetRivers,861,Retail Sports Wagering
+RIVERS - PITTSBURGH,State Tax Due (34%),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,BetRivers,862,Retail Sports Wagering
+RIVERS - PITTSBURGH,Local Share Assessment (2%),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,BetRivers,863,Retail Sports Wagering
+RIVERS - PITTSBURGH,Online Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,BetRivers,864,not_figure
+RIVERS - PITTSBURGH,Handle*,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,BetRivers,865,Online Sports Wagering
+RIVERS - PITTSBURGH,Revenue,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,BetRivers,866,Online Sports Wagering
+RIVERS - PITTSBURGH,Promotional Credits,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,BetRivers,867,Online Sports Wagering
+RIVERS - PITTSBURGH,Gross Revenue (Taxable),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,BetRivers,868,Online Sports Wagering
+RIVERS - PITTSBURGH,State Tax Due (34%),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,BetRivers,869,Online Sports Wagering
+RIVERS - PITTSBURGH,Local Share Assessment (2%),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,BetRivers,870,Online Sports Wagering
+RIVERS - PITTSBURGH,,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,BetRivers,871,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),SUGARHOUSE CASINO,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,872,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Total Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,873,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Handle*,7920797,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,874,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Revenue,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,875,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Promotional Credits,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,876,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Gross Revenue (Taxable),781163,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,877,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),State Tax Due (34%),265595,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,878,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Local Share Assessment (2%),15623,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,879,Total Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Retail Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,880,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Handle*,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,881,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Gross Revenue (Taxable),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,882,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),State Tax Due (34%) ,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,883,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Local Share Assessment (2%),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,884,Retail Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Online Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,885,not_figure
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Handle*,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,886,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Revenue,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,887,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Promotional Credits,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,888,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Gross Revenue (Taxable),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,889,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),State Tax Due (34%) ,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,890,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),Local Share Assessment (2%),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,891,Online Sports Wagering
+RIVERS - PHILADELPHIA (FORMERLY SUGARHOUSE),,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,SugarHouse,892,not_figure
+PARX CASINO,PARX CASINO,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Parx,893,not_figure
+PARX CASINO,Total Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Parx,894,not_figure
+PARX CASINO,Handle*,6850305,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Parx,895,Total Sports Wagering
+PARX CASINO,Revenue,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Parx,896,Total Sports Wagering
+PARX CASINO,Promotional Credits,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Parx,897,Total Sports Wagering
+PARX CASINO,Gross Revenue (Taxable),907298,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Parx,898,Total Sports Wagering
+PARX CASINO,State Tax Due (34%),308481,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Parx,899,Total Sports Wagering
+PARX CASINO,Local Share Assessment (2%),18146,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Parx,900,Total Sports Wagering
+PARX CASINO,Retail Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Parx,901,not_figure
+PARX CASINO,Handle*,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Parx,902,Retail Sports Wagering
+PARX CASINO,Gross Revenue (Taxable),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Parx,903,Retail Sports Wagering
+PARX CASINO,State Tax Due (34%) ,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Parx,904,Retail Sports Wagering
+PARX CASINO,Local Share Assessment (2%),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Parx,905,Retail Sports Wagering
+PARX CASINO,Online Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Parx,906,not_figure
+PARX CASINO,Handle*,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Parx,907,Online Sports Wagering
+PARX CASINO,Revenue,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Parx,908,Online Sports Wagering
+PARX CASINO,Promotional Credits,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Parx,909,Online Sports Wagering
+PARX CASINO,Gross Revenue (Taxable),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Parx,910,Online Sports Wagering
+PARX CASINO,State Tax Due (34%) ,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Parx,911,Online Sports Wagering
+PARX CASINO,Local Share Assessment (2%),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Parx,912,Online Sports Wagering
+PARX CASINO,,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Parx,913,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,SOUTH PHILADELPHIA RACE AND SPORTSBOOK,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,914,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Total Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,915,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Handle*,2603808,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,916,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Revenue,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,917,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,918,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Gross Revenue (Taxable),441692,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,919,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,State Tax Due (34%),150175,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,920,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Local Share Assessment (2%),8834,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,921,Total Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Retail Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,922,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Handle*,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,923,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,924,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,925,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,926,Retail Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Online Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,927,not_figure
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Handle*,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,928,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Revenue,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,929,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,930,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,931,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,932,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,933,Online Sports Wagering
+SOUTH PHILADELPHIA RACE AND SPORTSBOOK,,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,934,not_figure
+HARRAH'S,HARRAH'S,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Caesars,935,not_figure
+HARRAH'S,Total Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Caesars,936,not_figure
+HARRAH'S,Handle*,2718595,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Caesars,937,Total Sports Wagering
+HARRAH'S,Revenue,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Caesars,938,Total Sports Wagering
+HARRAH'S,Promotional Credits,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Caesars,939,Total Sports Wagering
+HARRAH'S,Gross Revenue (Taxable),282740,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Caesars,940,Total Sports Wagering
+HARRAH'S,State Tax Due (34%),96132,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Caesars,941,Total Sports Wagering
+HARRAH'S,Local Share Assessment (2%),5655,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Caesars,942,Total Sports Wagering
+HARRAH'S,Retail Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Caesars,943,not_figure
+HARRAH'S,Handle*,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Caesars,944,Retail Sports Wagering
+HARRAH'S,Gross Revenue (Taxable),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Caesars,945,Retail Sports Wagering
+HARRAH'S,State Tax Due (34%) ,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Caesars,946,Retail Sports Wagering
+HARRAH'S,Local Share Assessment (2%),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Caesars,947,Retail Sports Wagering
+HARRAH'S,Online Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Caesars,948,not_figure
+HARRAH'S,Handle*,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Caesars,949,Online Sports Wagering
+HARRAH'S,Revenue,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Caesars,950,Online Sports Wagering
+HARRAH'S,Promotional Credits,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Caesars,951,Online Sports Wagering
+HARRAH'S,Gross Revenue (Taxable),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Caesars,952,Online Sports Wagering
+HARRAH'S,State Tax Due (34%) ,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Caesars,953,Online Sports Wagering
+HARRAH'S,Local Share Assessment (2%),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Caesars,954,Online Sports Wagering
+HARRAH'S,,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Caesars,955,not_figure
+VALLEY FORGE CASINO,VALLEY FORGE CASINO,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,956,not_figure
+VALLEY FORGE CASINO,Total Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,957,not_figure
+VALLEY FORGE CASINO,Handle*,3050424,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,958,Total Sports Wagering
+VALLEY FORGE CASINO,Revenue,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,959,Total Sports Wagering
+VALLEY FORGE CASINO,Promotional Credits,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,960,Total Sports Wagering
+VALLEY FORGE CASINO,Gross Revenue (Taxable),379731,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,961,Total Sports Wagering
+VALLEY FORGE CASINO,State Tax Due (34%),129109,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,962,Total Sports Wagering
+VALLEY FORGE CASINO,Local Share Assessment (2%),7595,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,963,Total Sports Wagering
+VALLEY FORGE CASINO,Retail Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,964,not_figure
+VALLEY FORGE CASINO,Handle*,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,965,Retail Sports Wagering
+VALLEY FORGE CASINO,Gross Revenue (Taxable),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,966,Retail Sports Wagering
+VALLEY FORGE CASINO,State Tax Due (34%) ,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,967,Retail Sports Wagering
+VALLEY FORGE CASINO,Local Share Assessment (2%),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,968,Retail Sports Wagering
+VALLEY FORGE CASINO,Online Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,969,not_figure
+VALLEY FORGE CASINO,Handle*,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,970,Online Sports Wagering
+VALLEY FORGE CASINO,Revenue,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,971,Online Sports Wagering
+VALLEY FORGE CASINO,Promotional Credits,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,972,Online Sports Wagering
+VALLEY FORGE CASINO,Gross Revenue (Taxable),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,973,Online Sports Wagering
+VALLEY FORGE CASINO,State Tax Due (34%) ,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,974,Online Sports Wagering
+VALLEY FORGE CASINO,Local Share Assessment (2%),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,975,Online Sports Wagering
+VALLEY FORGE CASINO,,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,Valley Forge-FanDuel,976,not_figure
+OAKS RACE AND SPORTSBOOK,OAKS RACE AND SPORTSBOOK,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,977,not_figure
+OAKS RACE AND SPORTSBOOK,Total Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,978,not_figure
+OAKS RACE AND SPORTSBOOK,Handle*,1541891,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,979,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Revenue,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,980,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,981,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Gross Revenue (Taxable),195856,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,982,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,State Tax Due (34%),66591,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,983,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Local Share Assessment (2%),3917,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,984,Total Sports Wagering
+OAKS RACE AND SPORTSBOOK,Retail Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,985,not_figure
+OAKS RACE AND SPORTSBOOK,Handle*,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,986,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,987,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,988,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,Local Share Assessment (2%),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,989,Retail Sports Wagering
+OAKS RACE AND SPORTSBOOK,Online Sports Wagering,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,990,not_figure
+OAKS RACE AND SPORTSBOOK,Handle*,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,991,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,Revenue,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,992,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,Promotional Credits,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,993,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,Gross Revenue (Taxable),,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,994,Online Sports Wagering
+OAKS RACE AND SPORTSBOOK,State Tax Due (34%) ,,Monthly,Apr,2019,MONTHLY Sports Wagering Report,PA,none,995,Online Sports Wagering
